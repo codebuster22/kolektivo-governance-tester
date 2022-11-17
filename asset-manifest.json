@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kolektivo-governance-tester/static/css/main.697671ac.chunk.css",
+    "main.js": "/kolektivo-governance-tester/static/js/main.1ae3187b.chunk.js",
+    "main.js.map": "/kolektivo-governance-tester/static/js/main.1ae3187b.chunk.js.map",
+    "runtime-main.js": "/kolektivo-governance-tester/static/js/runtime-main.381e949f.js",
+    "runtime-main.js.map": "/kolektivo-governance-tester/static/js/runtime-main.381e949f.js.map",
+    "static/css/2.42d51ddf.chunk.css": "/kolektivo-governance-tester/static/css/2.42d51ddf.chunk.css",
+    "static/js/2.039fc26d.chunk.js": "/kolektivo-governance-tester/static/js/2.039fc26d.chunk.js",
+    "static/js/2.039fc26d.chunk.js.map": "/kolektivo-governance-tester/static/js/2.039fc26d.chunk.js.map",
+    "index.html": "/kolektivo-governance-tester/index.html",
+    "static/css/2.42d51ddf.chunk.css.map": "/kolektivo-governance-tester/static/css/2.42d51ddf.chunk.css.map",
+    "static/css/main.697671ac.chunk.css.map": "/kolektivo-governance-tester/static/css/main.697671ac.chunk.css.map",
+    "static/js/2.039fc26d.chunk.js.LICENSE.txt": "/kolektivo-governance-tester/static/js/2.039fc26d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.381e949f.js",
+    "static/css/2.42d51ddf.chunk.css",
+    "static/js/2.039fc26d.chunk.js",
+    "static/css/main.697671ac.chunk.css",
+    "static/js/main.1ae3187b.chunk.js"
+  ]
+}
